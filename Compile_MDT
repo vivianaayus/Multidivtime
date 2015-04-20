@@ -11,3 +11,5 @@ cc multidivtime.c inv3.c arrayutl.c -lm -O4  -o multidivtime
 multidivtime example > & out.example & 
 
 # Files generated from this run will have a suffix "example".
+
+# For more information read the readme file.
